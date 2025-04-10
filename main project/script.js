@@ -409,7 +409,7 @@ let questions = [
         "A"
     ],
     [
-        "Q: What is one reason astronomers detect gamma rays in space/",
+        "Q: What is one reason astronomers detect gamma rays in space?",
         "A: To make the stars more vivid.",
         "B: To view and identify gamma-ray bursts.",
         "C: To try and identify alien activity.",
