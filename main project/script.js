@@ -448,6 +448,14 @@ let questions = [
         "D: Heart disease",
         "B"
     ],
+    [
+        "Q: Who first discovered gamma radiation?",
+        "A: Paul Villard",
+        "B: Albert Einstein",
+        "C: Arno Penzias",
+        "D: Robert Woodrow Wilson",
+        "A"
+    ],
 ];
 let currentQuestion = 0;
 let questionBoxMain = new QuestionBox(new Vector2(0, 10), new Vector2(800, 30), "yellow", "", false);
